@@ -1,0 +1,25 @@
+{
+  "name": "x",
+  "version": "0.0.2",
+  "description": "X",
+  "main": "index.js",
+  "keywords": [
+    "ui",
+    "sdk",
+    "10ui",
+    "x",
+    "framework"
+  ],
+  "author": "admin@10ui.com",
+  "license": "GPL",
+  "authors": [
+    "admin@10ui.com"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
